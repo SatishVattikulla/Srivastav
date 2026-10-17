@@ -1,0 +1,244 @@
+﻿Hi, everyone. Welcome to today's video. Let me 
+first and foremost take you to the chart of Nifty   50 and show you a very interesting point. Consider 
+any two periods between a bull run. For example,   this entire phase started from 2009 all the way 
+till here, and the total return was roughly 150   % in this bull run. Now, you must have often 
+heard the point that you just put your money   in the long term and you will see the portfolio 
+grow. Great point, and most of us would know   this point already, but we still keep on making a 
+lot of losses in the stock market. Why is that? I   would encourage all of you to pause the video 
+here, think about it, and comment below in the   comment box. Why do you think that happens? 
+The answer is right in front of you. I hope   that you at least had a chance to think about it. 
+See, everyone knows that the market is going from   point A to point B. No doubt about that. But 
+take a look at these periods. One, two, three,   four. There have been at least four periods 
+when the market corrected by more than 10%. And every single time we see the 
+market getting corrected by 10%,   Haaye, bear run has arrived. Everything is over. 
+And as a result, we panic, we sell our stocks,   and then we keep on sitting at the sidelines, the 
+market gives a run up, and it becomes almost close   to impossible for us to reenter. Why is this 
+happening? Well, the core reason for this is   the fact that most of us do not know what is the 
+meaning of hedging and how to hedge our portfolio.   That is the precise topic that I'm going to 
+help you understand in very simple, easy to   understand language. Some of the concepts might 
+be a little bit convoluted because I might speak   about what are market-linked ventures, what are 
+call options. So it's a little bit complicated,   but I will try to simplify it a lot. Do 
+consider pressing the like button. A lot   of preparation has gone into making this video. 
+So just a simple like from your side will help   these type of videos reach out to more investors. 
+Also a big shout out to our sponsors for today,   which is Incred Money, we'll be talking 
+more about them subsequently on the video. So let us kickstart our conversation and 
+let us first and foremost understand what   is the meaning of hedging and what you can 
+typically hedge versus not. For example, kids   who are in class 11th, 12th, almost all of 
+them who have to take an engineering would   be preparing for IITJEE. And as a hedge, 
+what do they do? They also take the exam   of AIEEE. Maybe, their parents are very rich, so 
+probably private engineering college, whatever it   is. So the point is that these are hedges, AIEEE, 
+private engineering college, etc, etc. So I hope   you got the concept of what hedging means that 
+you understand that IIT clear Karna is really   tough. So let me have some plan B that reduces 
+my risk in case I'm not able to clear an IIT.   That concept is called as hedging and something 
+similar happens in the stock market also. Now,   in the stock market, there is a concept called 
+as systematic risk and unsystematic risk. Now,   the concept here is that you can hedge 
+the unsystematic risk. You can't hedge,   systematic risk. Now, what is the meaning of this? 
+We will understand it in very simple language. See, the point being that let's say 
+that if Nifty 50 falls by 30 %, so no   matter what you do, the chances are that 
+your portfolio will also fall. For example,   my portfolio might fall by 20 %. Your portfolio 
+might fall by 30 %. Someone else's portfolio   might fall by only 5%, so on and so forth. But 
+everyone's portfolio will fall. It is very,   very likely. So what is the difference between 
+a person whose portfolio is going down by 10%   versus a person whose portfolio is going down 
+by 20%. Well, the answer is that this person   might have hedged his or her portfolio really 
+well. So now comes the natural question that,   okay, how can we develop that acumen that if the 
+nifty 50 is going down by 30%, what is it or what   specific techniques we can use that our portfolio 
+only goes down by 10, 15%. So can you talk about   some techniques, some specific strategies 
+that we can apply? Let me start discussing   eight such strategies. The first strategy is 
+called as margin of safety. Let me speak about   an example that I gave on my member community 
+channel, and it had to do with the PSU banks. Let me first and foremost show you 
+where currently we are on Nifty 50,   and you will see that we are almost at our 
+all-time high.. But we are at that 19,500 level,   and this is a recent, almost a recent high, so 
+to say, almost the Nifty touch 20,000, it came   back down. And now we are hanging around somewhere 
+around 19,600 as of today. So Nifty 50 is almost   at its all time high. Now, if you say that you 
+know what? I have the Nifty and I'm going to   go and invest all my money in Nifty 50 right now 
+because Nifty 50 always keeps on going up. Yes,   that is true. But the problem here would be 
+that you're buying Nifty 50 here. And if you   are doing bulk investing right now here, then it 
+might happen that there can be a time correction.   Nifty might dance around like this. It can go 
+up, it can go down. So a lot of time will go   away before you start seeing returns on your 
+portfolio. Why? Because there is no margin of   safety here. Let me give you two counter examples 
+to this. That, for example, now check, Nifty IT. Now, if you have been a regular viewer of my 
+channel, I had been giving the example of Nifty   IT since that time, it was here. It was outside 
+this channel. And now it has re-entered this   channel. Right now, if you see that if we extend 
+all the way to the peak, there is still a 27% gain   to be made, simply if Nifty IT, entire IT index 
+just reaches its previous recent high. There is   almost a 27% margin of safety on IT stocks. Now, 
+I'm not saying that this is guaranteed that you   are going to make 27% returns. In the short 
+term, the nifty IT is not going to correct.   It very well might be. But unless some macro 
+data tells you that IT industry is not going   to come back at all. Please notice the fact that 
+I'm not speaking about individual IT stocks, TCS,   Infosys, this, that, no, I'm speaking about the 
+entire IT index. Now, if you are of the viewpoint,   IT industry is not going to survive only. It 
+will continue to go down. There is something   fundamentally wrong within the industry. Unless 
+you have clarity on that specific reason,   any sensible person would think that IT 
+industry is not going to get crushed. It industry is likely to come back. And 
+by how much it should ideally come back,   it should come back up by at least 27%. Maybe 
+it will take one year, maybe it will take two   years. Even if you assume two years, then also 
+you are making 13% CAGR on IT industry. Why?   Because of the fact that there is margin of safety 
+involved. In a more realistic case. Now consider   the case that right now we are at 19,500 Nifty 
+levels and Nifty goes up by 15%. How much do   you think that IT industry will go up by? Will 
+it go up by more than 15% or less than 15%? My   bet would be that it will go up by more than 15%. 
+Why? Because of the concept of margin of safety   that everything seems to be okay or at least it 
+looks okay. Whatever bad news had to come out,   it has come out. From that perspective, I am 
+bullish on IT. Why? Because of this margin of   safety concept. And if you want to hedge 
+your portfolio, then first and foremost,   buy things or buy good things that are 
+at a discount or at a margin of safety. Let me give you another very quick example 
+here that I had given on my member community,   and this had to do with PSU banks. For example, if 
+you consider PSU Bank here, this is as of today,   and if you consider it back in 2018, it is almost 
+at the same level - PSU banks entire index. So if   you are picking some good PSU banks, for example, 
+today I picked the Indian Bank, and in just one   single day, it gave a run-up of roughly 12%. 
+Now the reason, again, there was there is a lot   of margin of safety on PSU banks. Why? Check 
+the results of any major public sector bank,   be it Punjab National Bank, Canara Bank, State 
+Bank of India, all are sitting on their highest   ever revenues, highest ever profits. So all good 
+things are happening on these banks. Bank cleanup   has already happened. Then why is it that these 
+PSU banks are not going to give results? They are   likely to give results. So from that particular 
+perspective, there is massive margin of safety   on even something like PSU bank. So the next way 
+of hedging your risk is to buy an option. Now,   I'm not trying to tell you that you should 
+become an F&O trader, all this stuff. No, I'm not talking about options from a 
+trading point of view. I'm talking about   options from a risk hedging point of view. Now, 
+what is the meaning of options? So this can get   a very complicated topic. Let me break it down in 
+very simple terms. What is the meaning of option?   Option in Hindi is called as Vikalp hona, and 
+in English it is called as having alternates.   So that is the meaning of having options. Now, 
+if you contextualize it to the finance market,   then there are two types of options that are 
+there. One is called as call option, and the   other is called as put option. So let us quickly 
+touch upon what call option means, and then I will   tell you how you can hedge your portfolio by using 
+these options. So let me first and foremost tell   you the theoretical definition of call option, 
+and just read through this that call options are   financial contracts that give option buyer the 
+right, but not the obligation to buy a stock,   bond, commodity, other assets at a specified price 
+within a specified time period. This might be a   little bit complicated, but here are three, 
+four key things that you need to understand. Let me break apart an example for you, 
+a real example, and then I will tell you   the utility of call option. I have picked 
+this screenshot from my trading account,   and this shows the call option for HDFC Bank. How 
+can you check that this is the call option of HDFC   Bank? Because this is the underlying here, HDFC 
+Bank, and August is the expiry. Expiry means that   this option is valid only till end of August or 
+last Thursday of August. And the exercise price or   the predetermined price or strike price is 1,570. 
+C means call option, and 550 is the total lot size   that you will have to buy. You can't buy just one 
+option.. No, you can't do it. You have to minimum   buy 550 quantity. So this is what an option 
+looks like. And in order to buy this option,   you will have to pay a 90.65 rupees premium on 
+per quantity basis. Now you'll say, Okay. What   is the utility of it? So here is the 
+first key point about a call option,   that a call option gains value when the market or 
+the underlying goes up in price. Now, for example,   consider that I'm making this video on 10th of 
+August, and HDFC Bank's stock price is 1,650. Now, if by the end of August, let's say 27th 
+of August, if the stock price of HDFC Bank goes   up to, let's say, 1,750. Now, if such a scenario 
+plays out, then it is my benefit that I'm holding   this option. Why? Because here in this scenario, 
+the example that I just shared, how much profit   will I be making? I'll be making 1,750 minus 1650 
+minus the premium or the insurance price that I   have paid, 19.65. I'll be making some positive 
+profit on this. So to cut the long story short,   a call option is beneficial if the asset or 
+the underlying is going up in price. Opposite   happens with a put option that if you are 
+scared that the market is going to go down,   then what should you buy? You should buy a put 
+option because it is somewhat the opposite. A   put option protects your downside risk. A call 
+option protects your upside risk. I hope that   you got at least the basic flavor of what a 
+call and a put option means. In case you want   to learn more about it, I've done a separate 
+video on this topic, please go and watch it. I have done a much more detailed explanation of 
+what is the meaning of option, but at least for   this video, I'll assume that you got the 
+basics. Now, the situation that you might   have witnessed is that when you are buying a 
+call option or a put option, you will have to,   number one, understand which option to buy, 
+what expire you to buy. Quantity size is   huge. This is HDFC bank I had shown you. It's 
+like 550 lot size. So it's a huge lot size,   lot of investment from that perspective. So what 
+can you do as a normal retail investor? Well,   you can go and purchase something called as MLD 
+or market-linked debentures. They use a strategy   of investing money in debt and then buying some 
+call or put option or using a straddle strategy.   Straddle strategy means all that stuff. That 
+becomes hyper complicated. We will not get   there. But let me explain what MLD is, and that 
+is the next hedging strategy. So the theoretical   definition of MLD is this, that market-linked 
+debentures are a type of a debt instrument   that offer returns based on the performance 
+of underlying market index or instrument. So again, same story, very complex definition. 
+So let me break it down and help you understand   it in a slightly more easier format. 
+See, the meaning of debenture, net-net,   is equal to a bond. So there are two types of 
+market. For example, there is an equity market,   bond market. If you're going and buying an ITC 
+stock or equity, what are you buying? You are   becoming a part owner in the company. But on 
+the flip side, if ITC comes out with its bond,   and they say that you know what? We are going 
+to pay you 9 % yearly return on this bond,   give us certain amount of money. So you'll go 
+and invest probably like 5,000 rupees in it,   and you'll make like 9 %. So are you a part 
+owner via the bond market? The answer is no.   You are simply giving money on a loan to ITC 
+via this bond/debenture. So market-linked   debentures are what? Well, they are a type of 
+a debt or a bond instrument which is linked   to the market. Now the market here could be 
+nifty-fifty, or it could be underlying gold   prizes or it could be anything underlying, 
+the way I explained you for a call option. Now let me give you a live example of an MLD, 
+how it is designed and whether or not it might   be sensible for you to go and purchase this MLD. 
+By the way, this MLD is open for subscription. So   in case you are considering investing in this 
+particular MLD that I'm going to speak about,   you can check the links in the description and 
+comment box. Now this MLD is by a company called   as Incred, and this is a Principal Protected 
+MLD. Now what is the meaning of principal   protected? So principal protected simply 
+means that if you have put in 100 rupees,   then you will get 100 rupees back, that 
+in case the worst-case scenario happens.   Now let me quickly speak about that how this 
+MLD is designed. For example, here you are   putting 100 rupees. Five goes into a market-linked 
+component where a call option is purchased. Now,   that call option price at expiry could range 
+from between zero to 16 rupees. So this is   the return that you will make on the call 
+part. Rest 95 % is put in a debt instrument,   and after two years, you will make 114 rupees. 
+Please note that this is on a two-year basis. This is the term of this MLD that in two 
+years, you can make a minimum of 14 % returns   or a maximum of 30 % returns. So in case you are 
+interested, you can purchase this MLD on Incred   Money platform. Now I'll say, can you explain the 
+math, how this 30 % is attainable, and under what   circumstances is the 30 % attainable? So for 
+this, you need to understand the payout matrix   of any MLD. Now, whichever MLD you are trying to 
+hedge your portfolio with, do try to understand   its payout matrix. So here I will give a very 
+quick explanation of the payout matrix. So see,   we started the video by speaking about the 
+fact that the Nifty is going to correct at   some point and you might get scared. So here 
+what we are trying to do through this MLD is   that we are trying to protect our downside. So 
+if you look at the negative return scenario,   that if Nifty falls from 19,500, where 
+we approximately currently are all the   way to 15,600, then Nifty returns will 
+be minus 20, but MLD returns will be   14 %. Why? Because money or a significant 
+part of that money is invested into debt. Similarly, if you read through this entire case, 
+you will see that even when market is giving 0 %   return, your MLD return will be 14 %. Now this MLD 
+is also quite favorable in a nifty, mildly bullish   scenario that if nifty is somewhere around 23,400 
+in the next two years, then also in this MLD,   you are not losing any money. Finally, you lose 
+money in a bullish scenario on this MLD that,   for example, if the market touches 27,300, then 
+nifty returns will be 40, but your MLD return will   be 30. So if the Nifty crosses 25, 350, then only 
+in that case you're losing money. But if you have   put in some amount of money in Nifty, then. Even 
+MLD part is giving you positive return. The good   thing about the MLD is that it is protecting your 
+downside. So this is a hedging strategy. And if   you feel that you need to hedge your portfolio, 
+then you could consider this MLD. Now the final   part about this MLD is the bond part. That what if 
+the bond goes bonkers and the bond falls to zero?   Is that possible? Is that not possible? Well, 
+here are the ratings by independent agencies. And if you are okay with the risk, then this is 
+an option that you could definitely consider. So   with that said, let's move on to the next section. 
+So the next hedging technique is called balancing   your portfolio with aggressive and defensive 
+stocks. Now, what are aggressive stocks? So   these would be IT, tech, these could be banks or 
+finance. If you are picking in more small finance,   then what are you typically doing? You are 
+buying more aggressive stocks. These stocks   are likely to have something called as higher 
+beta. Now, it might very well be the case,   for example, and almost 60, 70 % of your 
+portfolio comprises of finance. Now,   this type of portfolio does exceptionally 
+well when the markets are going up. But if   you do not balance this portfolio with 
+defensive stocks, for example, FMCG,   Hindustan Unilever, Nestle, all these different 
+companies, these are defensive companies. They   do not aggressively go down in value, generally 
+speaking. So if you're not playing this balancing   game that you have enough of defense with a 
+mix of aggressive, then the chances are that   you are not hedging your portfolio properly. 
+Now this is a balancing technique of hedging. Now many investors, for example, Mr. 
+Vijay Kedia, he buys highly aggressive   small cap companies. And I don't think he 
+balances by using any defensive stocks,   so to say. So this is not something that he would 
+believe in. But yes, as a normal retail investor,   I would highly encourage you to balance 
+your portfolio by buying aggressive and   defensive stocks both. Because typically what 
+you might have yourself noticed was that in 2020,   when crash came, what type of stocks did not 
+go down crazily in value? It was something like   Hindustan Unilever, FMCG stocks. Why? Because 
+these were defensive in nature. Therefore,   it is always advisable that you have some 
+defensive stocks in your portfolio or you   have some debt exposure to your portfolio. The 
+next hedging strategy is called as Cash Averaging   Strategy. Now, what is the meaning of this? 
+Let's assume that you already have, as of today,   10 lack rupees invested in the entire stock 
+market. Your portfolio is fixed. You're happy   with it. Now what is happening is that you are 
+making, let's say, additional income of 1 lakh   rupees that you can invest in the stock market. 
+So what needs to happen is that you need to make   a call as to how much equity you need to keep 
+versus how much cash positions you need to keep. Now typically what we do is that in a growing 
+market, we keep on doing SIP. There is nothing   wrong with it. It's fine. I mean, it might not 
+give you the best possible results, but SIP at   least gets you in the habit of making investments. 
+But I would personally recommend, and this is an   advice that I also follow, that, for example, 
+you must have something called as cash reserve.   For example, out of this one lakh, take out maybe 
+15 % of this money and create a separate fund and   call it the bear market fund. Now, when 2020-like 
+situation comes, when a major correction happens,   the 20 % correction or I have already shown you 
+that 10 % correction will keep on happening in the   market. Even in this market, it will happen. So 
+from that perspective, this is the fund that needs   to go here because this fund is going to give 
+you the best CAGR. I would always recommend that   whatever new money you are putting in the market, 
+and if you have a big portfolio already, then   timing the market intelligently becomes critical 
+and having a little bit of cash reserves that you   are pulling out of this new fund, especially 
+when you're sitting on a big enough portfolio, Just like I started the story by saying 
+that you are happy with this 10 lakhs. Now,   if you are in very early stages of your portfolio, 
+you are 22, 23, 25, very young, then honestly,   this technique does not apply to you because you 
+have a fairly long investment horizon. But this   technique becomes especially important for people 
+who are slightly older. If you're 40, 45, 50 plus,   then having some cash reserves become critical 
+for you because it can allow you to hedge in a   falling market that if the market falls by 10 %, 
+you invest more money into the market, and then   your losses becomes how much? Then it will fall 
+down to eight % or whatever that % is. So that   way you are able to lower your losses. I wanted to 
+teach a few more techniques, but unfortunately, we   have run out of time. What I'm going to do is that 
+tomorrow on the Member Community tab, I'm going to   depict more of these techniques, and I'm going 
+to talk about some more techniques. Investments   and debt securities are subject to market risks. 
+Read all offer-related documents carefully. You   can ask me your questions there also, and I will 
+try to respond as many questions as possible. One good video to watch here is the F&O video. 
+Please go and watch it. It will give you more   understanding on what is the design of call 
+option, put option. And please do not become   F&O traders. That is a humble request from my 
+side. Most of the F&O traders lose their money.   So don't play that game. But yes, do understand 
+that you can use futures and options in order   to hedge your existing portfolio. Thank you 
+so much for watching and I'll see you soon.

@@ -1,0 +1,178 @@
+. In fact, even I did not
+know about the company. These are like 1-100 type of companies. They will run like anything. If they correct, then they can go to zero.
+Hi, guys. Welcome to today's video. On today's video, I'm going to speak about
+Indian Artificial Intelligence stocks. Now, most of my bets or
+AI-driven bets are in the US. Now, this is something
+that I had done earlier. I'm already sitting on very
+good profits on those bets. Those companies were easy to identify
+because they were working on mega trends, mega themes. For example, there's a data libraries
+for artificial intelligence. Now, many companies were
+working on that aspect. Picking those stocks was much easier. But I got a very interesting question from
+my community member, and he asked me that, Hey, Akshat, okay, fine. You have picked AI-driven stocks in the
+US, but India may be the come over on AI. For a very long period of time, I avoided
+picking Indian companies or Indian AI-driven stocks. But I'm warming up to the idea that India
+may be, but there is a type of an AI work that will happen in India.. On this video, I'm going to help you
+understand what type of AI work will be done in India. Why is that such an important industry? And how do you analyze
+stocks on Indian AI? I'll pick a case study. I'll help you understand the
+entire thematics around it. Ai stocks are very
+complicated to understand. I'll try to simplify the
+tech as much as possible. I'll try to make the language
+very easy to understand. Let us first and foremost understand
+that AI is not a rally value on AI. So. See guys, I don't know whether it will be
+pump and dump or it will not be pump and dump.
+It's a tech. It is still one of the prominent techs. Even Apple iPhone 16, when we launched,
+was maybe the entire marketing was done around AI, that it was an AI-driven phone. Now, is it really practically being
+applied, not practically being applied? That's a separate matter of debate. But the larger point here is that
+even Apple is playing that AI card. Similarly, if you check the newest release
+by Meta, even that is playing the AI card. Therefore, AI as a
+technology is here to stay. Some of the best AI stocks, if you want to
+do like broad-based investing, they will be in the US. But there are certain themes which will be
+aligned in India because of a very sensible thing called
+as data security risk. For example, cyber security-based AI
+companies, or health care-based AI companies. Now, these are very sensitive data sets. If you start inviting like American
+companies to do AI work on these domains, then it could be a problem. Therefore, these type of companies, if I'm
+able to figure out in India, these are the type of companies I might be
+willing to put some money on. Let us understand. There are essentially six, seven key
+criteria that I will tell you in terms of analyzing any AI stock. Whichever example I'm using on this
+video, please use it as a case study. It's not as if I have
+built my position in these. I'm just using it as a reference point
+to tell you how to analyze the stocks. Then you can use this
+framework to analyze it. Let me explain.
+The seven key concepts. I'll just explain. The first key concept is very simple and
+it is called as the concept of Innovation Curve. Innovation Curve means basically
+this is how the innovation works. First, you will see that
+nothing is happening. Any new technology come, for
+example, Internet in the '90s. There was hardly any application
+of Internet in the '90s. Companies. For close to a decade,
+nothing major happened. Then suddenly so many new companies came
+in, like Yahoo came in, a bunch of streaming platforms, audio streaming,
+video streaming platform came in, and there was a lot of innovation. Then again, there was like, dullness. Then again, there was massive innovation. Then again, there will be dullness. This is called as S-curve innovation. Now, the thing is that whenever we hear
+these type of trendy things, EV AI, or generative AI, so we get very excited. And whatever companies we are getting
+our hands on, we end up purchasing them. Now, is that the right way of investing?
+The short answer is no. Basically, your goal
+should be to wait it out. Look for the fact that whether the
+technology is getting mature, are we actually using it? And then build your positions. That's what any smart investor
+would That's what we're doing. So first is the concept of S-curve. You should be very clear about this. Now, the second key concept is to
+understand the spectrum of the AI. For example, now it is doing
+different type of work. Google, it is doing
+different type of work. If you're looking at Microsoft, it is
+doing different type of work within the AI spectrum. Now, some of these spectrums might be
+mature, some of these spectrums might not be mature. For example, just a data libraries. That's commonsensical that whichever
+company controls the data libraries, its AI model will be stronger.
+Why? Why? Because it will be able to create more
+sophisticated AI models based on that data library. Now, this is a very clear first principles
+type of thinking that you can apply in order to pick stocks. Now, in India, if you have to pick, the
+issue is that we are not working or the Indian companies are not
+working on big idea, so to say. Here we have to pick sensible subsegments
+in India in the AI space which will get evolved first. This is the most important learning that I
+will say, that you have to pick the right spectrum of AI stocks to begin with. Which is like trying
+to compete with Google. I don't think that that is a feasible
+solution or that company will be able to progress much. It will be a much harder bet compared to
+companies which are doing very niche work. Therefore, the second concept that you
+need to understand the spectrum of AI is very critical. Let me start talking about a company as a
+case study and tell you how you can figure out which spectrum is that
+particular company working on. For example, here is a company, it is
+called Blue Cloud SoftTech solution. If you look at it in a screener and look
+at the data, you will not find a lot a lot of data on this company
+except for annual report. In fact, any AI company that you pick in
+India right now, it will be a small pair. For example, this company has
+a market cap of 3,500 crores. This is a small cap company. A small cap company, a new company, are
+working in some innovative things, so you'll not find a lot of data around it. What I've done is that I've
+prepared a note for this company. In case you guys want to research more,
+you can use that note to get and gather more data. Please consider it as a
+data gathering exercise. You can put the stock on a radar, observe
+it for a and then you can figure out whether to invest, not
+invest, all that stuff. Basically, if you go and Google about this
+company, read more information about this company, there are certain
+data things that you will get. But the first critical data point
+that you need to aggregate is. For example, if you go and learn more
+about Blue Cloud SoftTech Solutions, what you will notice is that Blue Cloud
+SoftTech solution is a leading IT solution provider. It used to specialize on all these things,
+and now it has started to pivot to AI-based applications. Within AI also, they are
+focusing on two areas. One is cyber security products,
+and second is healthcare-based processes. In fact, if you read more in-depth, you
+will find that this company has launched an app, and It is called
+as True Health app. Basically what it does is that it does
+non-intrusive medical diagnostics using AI computer vision technology, and
+it has already started making some money from this, which is an innovative
+thing that this company is doing. Just to help you understand that any AI
+stock that you pick in India right now, basically what you need to do on that is
+that you need to understand the spectrum of AI where it is working. For example, this particular
+company is working on cybersecurity. Number two, it is working
+in the healthcare space. That's what we're doing.
+We're using AI for diagnostics. Then the third key point that you need to
+investigate about a company is, and again, going back to the concept of S-curve. That the company has to burn a lot of
+money in order to prove that technology, get to a scale, all that. These are like 1-100 type of companies. If they are correct,
+then they can go to zero. There is always this type of a risk. Therefore, it is important for you to
+check the current balance sheet of the company and figure out whether the
+company can make money or does it. For example, you will see,
+is it a profitable company? Yes, it is a profitable company.
+It is small cap. It is a small cap.
+It is not a big profit. In fact, even I did not
+know about the company. A student of mine messaged me,
+investigate more about this company. In that respect, I had picked it up. From this, you can see that the company is
+making money, it is profitable, and it is pivoting to the right set of AI
+which could gain traction in India. Now, why am I saying that something like
+healthcare or Cyber Security can get traction in India? Reason is quite simple. For example, cyber security is a work area
+where foreign intervention is typically not allowed. Here you need homegrown
+AI-based companies. Similarly, when it comes to
+health-oriented data, now, health is, again, a very critical data
+point for any country.. We want homegrown Indian companies
+to be in these critical sectors. If a company is working on these critical
+sectors, then automatically there is a little bit of advantage there. But if you are competing on social
+media-based AI, and all that stuff by using AI, then honestly,
+this is not a company that will find any protection within India. Those type of businesses
+might not be indigenized. Now, the fourth thing that you need to
+analyze in terms of any company is the regulation risk. For example, if it is a
+cybersecurity-based AI company or it is working in critical segments or critical
+sectors like healthcare, then the chances of regulation are high. Now, this is a risk that we are taking in
+case you are considering investing in these type of companies. This is definitely a risk and
+you should be cognizant of it. But if we step back and take a larger
+picture, then the entire AI space will be put under a certain policy consideration
+and there will be a AI is a certain framework that will be generated. This framework also needs to be
+constantly updated right now. Ai is evolving at such a fast pace that
+it is very difficult to keep a track. But regulation is one area
+which we cannot be sure of.. But AI Almost every single AI company out
+there will be regulated, and that is definitely a risk. But if we take a step back and consider,
+then almost every single country on Earth right now is understanding the power
+of AI and they want to promote AI. The chances are that healthier regulations
+will be built for AI, and this is always a chance that you have to
+take with tech companies. Then come point number 5, which
+is the concentration risk. For example, when we go to tech-based
+companies like Microsoft, Amazon, et cetera, you will quickly find out that
+they have diversified their geographical risk a lot.
+For example,. Then they came to China. Now they are selling a lot in India. They have been able to diversify their
+risk in terms of their customer base, and also on top of that,
+their product line extension. So you have to look at the
+business model of the company. Again, it's free note. This is just data compilation
+that my team has done. I will show you two things. Number one thing is that if you look at
+the overall financials, you will see that in the total income,
+there seems to be no issues here, per se. But the second and more important point
+that I wanted to highlight that within the AI space, they are looking at
+these type of proprietary products. And in products, it's very important that
+you Google it, because every company that is getting to the AI space in India
+would have a flagship product. It's important for you to understand how
+that app exactly works, how that product exactly works, what is
+the moat of that product. So understanding that
+moat is very critical. So I have download and these are the type
+of data assets that I was able to find. Now, the final point of analysis that you
+need to keep in mind is the moat analysis or the competitive
+advantage of the company. Now, the thing is that because
+AI is a very new area,. For example, Amazon, Meta, and
+stuff, you can understand it. But when it comes to small or mid-cap
+AI-based stocks in India, they have no moat right now. They are trying to build their brand. They are trying to figure
+out that product-market fit. So you can see a massive moat. This is a chance that you are taking. In case you are investing in these type of
+companies or any AI stock right now in India, almost all of them
+are at a nascent stage. They are experimenting
+with their product line. What you need to do is that you need to
+look at all these four or five key points that I have spoken about. Figure out industries where AI will
+find its product market fit in India. For example, healthcare-based
+AI, chances are very high. Similarly, cyber security-based
+AI, chances are very high. These are good industries to
+pick or good subsegments to pick. It may look at how good the
+product of a company is. Mix of all these points will
+give you the eventual moat. And hopefully, if you are able to create a
+basket of these type of 4-5 good AI-based talk, which are in the small-cap mid-cap
+category, then these will be the type of next TCS or InfoCest type of companies. I hope that you found this
+short video to be insightful. If you did, do press a like
+button and I'll see you soon.
